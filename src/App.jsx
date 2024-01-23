@@ -1,8 +1,12 @@
 import React from 'react';
+import AudioPlayer from './componente/AudioPlayer';
 
 const App = () => {
     return (
-        <h1>REACT APP</h1>
+        <>
+        
+        <AudioPlayer/>
+        </>
     )
 }
 
